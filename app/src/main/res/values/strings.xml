@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaRxTesting</string>
+    <string name="find_repository">find repository</string>
+</resources>
